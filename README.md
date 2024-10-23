@@ -1,8 +1,5 @@
 # 🌟 **Plan d'apprentissage JavaScript par projets**
 
-
-# 🌟 **Plan d'apprentissage JavaScript par projets**
-
 Voici un guide complet et bien structuré pour maîtriser **JavaScript** à travers des projets concrets. Chaque section vous aidera à comprendre un aspect fondamental ou avancé de JavaScript. Vous progresserez étape par étape du plus simple au plus complexe.
 
 ## 1. 🛠️ **Syntaxe de base et structures de contrôle**
